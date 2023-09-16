@@ -1,0 +1,20 @@
+header {
+  background: linear-gradient(90deg, rgba(97, 252, 239, 0.792), rgb(92, 159, 240));
+}
+
+.header-left-section {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  color: rgba(0, 0, 0, 0.774);
+}
+
+.troll-face-img {
+  width: 40px;
+}
+
+.title {
+  font-size: 22px;
+  font-weight: bold;
+  margin-left: 10px;
+}
