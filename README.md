@@ -1,8 +1,10 @@
-# React + Vite
+# React Project to demonstrate basic functions of React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Use of components to demonstrate modularity of React
+- Use of Props for flowing data in the components
+- event listeners
+- useState for maintaining state
+- useEffect for any side effect code and its cleanup function
+- Managing React forms and controlled inputs
+- Conditional rendering
+- making API calls
